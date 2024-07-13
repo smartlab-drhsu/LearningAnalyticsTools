@@ -28,6 +28,8 @@ Online Office Hours: Wen 12-15
 
 W3Schools- Python Tutorial <https://www.w3schools.com/python/default.asp>
 
+Plotly Open Source Graphing Library for Python- <https://plotly.com/python/>
+
 
 
 ### 資料來源
