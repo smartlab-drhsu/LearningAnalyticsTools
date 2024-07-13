@@ -25,8 +25,12 @@ Online Office Hours: Wen 12-15
 
 ## 重要資源
 ### 指令
+
 W3Schools- Python Tutorial <https://www.w3schools.com/python/default.asp>
-------------------------------------------------------------------------------
+
+
+
 ### 資料來源
 政府資料開放平臺- <https://data.gov.tw/>
+
 Kaggle's Datase- <https://www.kaggle.com/datasets>
