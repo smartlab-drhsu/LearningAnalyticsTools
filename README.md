@@ -3,6 +3,8 @@
 
 授課教師：許 軒
 
+NTNU本課程大綱頁面- <https://courseap2.itc.ntnu.edu.tw/acadmOpenCourse/SyllabusCtrl?year=113&term=1&courseCode=05UG032&courseGroup=&deptCode=GU&formS=&classes1=&deptGroup=>
+
 E-mail：155306@m365.fju.edu.tw
 
 Online Office Hours: Wen 12-15
@@ -36,3 +38,6 @@ Plotly Open Source Graphing Library for Python- <https://plotly.com/python/>
 政府資料開放平臺- <https://data.gov.tw/>
 
 Kaggle's Datase- <https://www.kaggle.com/datasets>
+
+### 其他資源
+Google Fonts 字型- <https://fonts.google.com/>
